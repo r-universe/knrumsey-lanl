@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "khaos"]
+	path = khaos
+	url = https://github.com/cran/khaos
 [submodule "leapgp"]
 	path = leapgp
 	url = https://github.com/cran/leapgp
