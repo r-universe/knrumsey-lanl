@@ -5,6 +5,9 @@
 [submodule "GBASS"]
 	path = GBASS
 	url = https://github.com/cran/GBASS
+[submodule "conforest"]
+	path = conforest
+	url = https://github.com/cran/conforest
 [submodule "khaos"]
 	path = khaos
 	url = https://github.com/cran/khaos
